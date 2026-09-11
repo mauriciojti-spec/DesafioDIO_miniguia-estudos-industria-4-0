@@ -64,31 +64,15 @@ Compreender os principais conceitos, tecnologias e aplicações da **Indústria 
 
 Para construção do caderno temático sobre Indústria 4.0, foram selecionados artigos científicos, relatórios técnicos, livros e conteúdos especializados, buscando reunir perspectivas acadêmicas e aplicações práticas.
 
-Sistema FIRJAN — Indústria 4.0 (2016)
-Arquivo: sistema-firjan-industria-4.0-2016.pdf
-Utilizado principalmente para contextualizar o estágio da indústria brasileira, os desafios da transformação digital e a evolução para a Indústria 4.0.
-Estudos sobre Indústria 4.0, CNI e ABIMAQ
-Arquivo: 12.pdf
-Fonte utilizada para abordar pesquisas da CNI e ABIMAQ, infraestrutura de comunicação, 5G industrial e integração/convergência entre TI e OT.
-Desafios da Indústria 4.0 no contexto brasileiro
-Arquivo: 10.36942_iande.v5i1.128.pdf
-Utilizado para análise dos desafios educacionais, capacitação profissional e desenvolvimento de competências exigidas pela transformação tecnológica da indústria.
-Retrofitting e modernização industrial
-Arquivos:
-11.pdf
-Automation_Control_Systems__Process_Control_for_Industry_40 - 16.pdf
-Utilizados para estudar conceitos e métodos de retrofitting inteligente, modernização de equipamentos existentes e integração de máquinas legadas às arquiteturas da Indústria 4.0.
-Industry 4.0: The Global Industrial Revolution
-Arquivo: Industry_40__The_Global_Industrial_Revolution_Achievements_Obstacles_and_Research_Needs_for_the_Digital_Transformation_of_Industry - 17.pdf
-Fonte utilizada para estudar transformação digital industrial, Data Lakes, integração de dados e estratégias para modernização de fábricas.
-Industry 4.0: From Smart Factory to Cognitive Cyberphysical Production System and Cloud Manufacturing
-Arquivo: Industry_40from_Smart_Factory_to_Cognitive_Cyberphysical_Production_System_and_Cloud_Manufacturing - 19.pdf
-Utilizado principalmente para análise de Smart Factories, sistemas ciberfísicos, obstáculos econômicos, integração tecnológica e cibersegurança.
-Estudo de integração CLP/SCADA e computação em nuvem
-Arquivo: asilva,+artigo_04_v22_n1.pdf
-Utilizado como exemplo de aplicação prática da Indústria 4.0, demonstrando a integração entre CLP, sistemas SCADA e serviços em nuvem.
-Podcast — Inteligência Industrial: Da Indústria 4.0 à Inteligência Artificial
-Utilizado como fonte complementar para analisar desafios reais da transformação digital, aplicações de Inteligência Artificial na indústria e questões relacionadas à cibersegurança industrial.
+Principais Documentos Utilizados do seu Notebook
+sistema-firjan-industria-4.0-2016.pdf (Estágio da indústria nacional)
+12.pdf (Pesquisas CNI/Abimaq, infraestrutura 5G e arquitetura convergente TI/OT)
+10.36942_iande.v5i1.128.pdf (Desafios educacionais e qualificação profissional)
+11.pdf e Automation_Control_Systems__Process_Control_for_Industry_40  - 16.pdf (Conceito e métodos de Retrofitting inteligente)
+Industry_40__The_Global_Industrial_Revolution_Achievements_Obstacles_and_Research_Needs_for_the_Digital_Transformation_of_Industry - 17.pdf (Data Lakes e modernização de fábricas)
+Industry_40from_Smart_Factory_to_Cognitive_Cyberphysical_Production_System_and_Cloud_Manufacturing  - 19.pdf (Obstáculos econômicos e cibersegurança)
+asilva,+artigo_04_v22_n1.pdf (Caso prático de integração CLP/SCADA com a nuvem)
+#podcast Inteligência Industrial - Da Indústria 4.0 à Inteligência Artificial (Desafios práticos e cibersegurança)
 ---
 
 # 🧠 Engenharia de Prompts e “Cicatrizes”
