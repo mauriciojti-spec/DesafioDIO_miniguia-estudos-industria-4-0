@@ -64,15 +64,24 @@ Compreender os principais conceitos, tecnologias e aplicações da **Indústria 
 
 Para construção do caderno temático sobre Indústria 4.0, foram selecionados artigos científicos, relatórios técnicos, livros e conteúdos especializados, buscando reunir perspectivas acadêmicas e aplicações práticas.
 
-Principais Documentos Utilizados do seu Notebook
+Principais Documentos Utilizados do seu Notebook:
+
 sistema-firjan-industria-4.0-2016.pdf (Estágio da indústria nacional)
+
 12.pdf (Pesquisas CNI/Abimaq, infraestrutura 5G e arquitetura convergente TI/OT)
+
 10.36942_iande.v5i1.128.pdf (Desafios educacionais e qualificação profissional)
+
 11.pdf e Automation_Control_Systems__Process_Control_for_Industry_40  - 16.pdf (Conceito e métodos de Retrofitting inteligente)
+
 Industry_40__The_Global_Industrial_Revolution_Achievements_Obstacles_and_Research_Needs_for_the_Digital_Transformation_of_Industry - 17.pdf (Data Lakes e modernização de fábricas)
+
 Industry_40from_Smart_Factory_to_Cognitive_Cyberphysical_Production_System_and_Cloud_Manufacturing  - 19.pdf (Obstáculos econômicos e cibersegurança)
+
 asilva,+artigo_04_v22_n1.pdf (Caso prático de integração CLP/SCADA com a nuvem)
+
 #podcast Inteligência Industrial - Da Indústria 4.0 à Inteligência Artificial (Desafios práticos e cibersegurança)
+
 ---
 
 # 🧠 Engenharia de Prompts e “Cicatrizes”
